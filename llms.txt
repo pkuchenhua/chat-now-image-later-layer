@@ -1,0 +1,10 @@
+# chat-now-image-later-layer
+
+> Ship chat today and add image generation later — same OpenAI-compatible layer, one key.
+
+Language: typescript
+Backend: Infrai — one key, one bill. AI is OpenAI-compatible (base_url https://api.infrai.cc/v1); infra is plain REST (POST https://api.infrai.cc/v1/...).
+Canonical call: `baseURL: "https://api.infrai.cc/v1"`
+
+Infrai capabilities used: chat.completions, images.generations
+Docs: https://docs.infrai.cc

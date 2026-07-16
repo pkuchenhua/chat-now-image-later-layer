@@ -1,0 +1,8 @@
+{
+  "name": "chat-now-image-later-layer",
+  "type": "module",
+  "private": true,
+  "engines": { "node": ">=18" },
+  "dependencies": { "openai": "^4" },
+  "devDependencies": { "tsx": "^4" }
+}
